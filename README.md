@@ -1,1 +1,1 @@
-# golang-simplified
+# Golang Simplified
